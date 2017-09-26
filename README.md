@@ -1,2 +1,2 @@
 # EmoteAI
-Pet AiI project for gaming AI
+Pet AI project for gaming AI
